@@ -1,0 +1,4931 @@
+fileFormatVersion: 2
+guid: 1c9a35d7265fded4d8c0063ffce02c1a
+timeCreated: 1478493419
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JUMP-button_0
+    21300002: JUMP-button_1
+    21300004: JUMP-button_2
+    21300006: JUMP-button_3
+    21300008: JUMP-button_4
+    21300010: JUMP-button_5
+    21300012: JUMP-button_6
+    21300014: JUMP-button_7
+    21300016: JUMP-button_8
+    21300018: JUMP-button_9
+    21300020: JUMP-button_10
+    21300022: JUMP-button_11
+    21300024: JUMP-button_12
+    21300026: JUMP-button_13
+    21300028: JUMP-button_14
+    21300030: JUMP-button_15
+    21300032: JUMP-button_16
+    21300034: JUMP-button_17
+    21300036: JUMP-button_18
+    21300038: JUMP-button_19
+    21300040: JUMP-button_20
+    21300042: JUMP-button_21
+    21300044: JUMP-button_22
+    21300046: JUMP-button_23
+    21300048: JUMP-button_24
+    21300050: JUMP-button_25
+    21300052: JUMP-button_26
+    21300054: JUMP-button_27
+    21300056: JUMP-button_28
+    21300058: JUMP-button_29
+    21300060: JUMP-button_30
+    21300062: JUMP-button_31
+    21300064: JUMP-button_32
+    21300066: JUMP-button_33
+    21300068: JUMP-button_34
+    21300070: JUMP-button_35
+    21300072: JUMP-button_36
+    21300074: JUMP-button_37
+    21300076: JUMP-button_38
+    21300078: JUMP-button_39
+    21300080: JUMP-button_40
+    21300082: JUMP-button_41
+    21300084: JUMP-button_42
+    21300086: JUMP-button_43
+    21300088: JUMP-button_44
+    21300090: JUMP-button_45
+    21300092: JUMP-button_46
+    21300094: JUMP-button_47
+    21300096: JUMP-button_48
+    21300098: JUMP-button_49
+    21300100: JUMP-button_50
+    21300102: JUMP-button_51
+    21300104: JUMP-button_52
+    21300106: JUMP-button_53
+    21300108: JUMP-button_54
+    21300110: JUMP-button_55
+    21300112: JUMP-button_56
+    21300114: JUMP-button_57
+    21300116: JUMP-button_58
+    21300118: JUMP-button_59
+    21300120: JUMP-button_60
+    21300122: JUMP-button_61
+    21300124: JUMP-button_62
+    21300126: JUMP-button_63
+    21300128: JUMP-button_64
+    21300130: JUMP-button_65
+    21300132: JUMP-button_66
+    21300134: JUMP-button_67
+    21300136: JUMP-button_68
+    21300138: JUMP-button_69
+    21300140: JUMP-button_70
+    21300142: JUMP-button_71
+    21300144: JUMP-button_72
+    21300146: JUMP-button_73
+    21300148: JUMP-button_74
+    21300150: JUMP-button_75
+    21300152: JUMP-button_76
+    21300154: JUMP-button_77
+    21300156: JUMP-button_78
+    21300158: JUMP-button_79
+    21300160: JUMP-button_80
+    21300162: JUMP-button_81
+    21300164: JUMP-button_82
+    21300166: JUMP-button_83
+    21300168: JUMP-button_84
+    21300170: JUMP-button_85
+    21300172: JUMP-button_86
+    21300174: JUMP-button_87
+    21300176: JUMP-button_88
+    21300178: JUMP-button_89
+    21300180: JUMP-button_90
+    21300182: JUMP-button_91
+    21300184: JUMP-button_92
+    21300186: JUMP-button_93
+    21300188: JUMP-button_94
+    21300190: JUMP-button_95
+    21300192: JUMP-button_96
+    21300194: JUMP-button_97
+    21300196: JUMP-button_98
+    21300198: JUMP-button_99
+    21300200: JUMP-button_100
+    21300202: JUMP-button_101
+    21300204: JUMP-button_102
+    21300206: JUMP-button_103
+    21300208: JUMP-button_104
+    21300210: JUMP-button_105
+    21300212: JUMP-button_106
+    21300214: JUMP-button_107
+    21300216: JUMP-button_108
+    21300218: JUMP-button_109
+    21300220: JUMP-button_110
+    21300222: JUMP-button_111
+    21300224: JUMP-button_112
+    21300226: JUMP-button_113
+    21300228: JUMP-button_114
+    21300230: JUMP-button_115
+    21300232: JUMP-button_116
+    21300234: JUMP-button_117
+    21300236: JUMP-button_118
+    21300238: JUMP-button_119
+    21300240: JUMP-button_120
+    21300242: JUMP-button_121
+    21300244: JUMP-button_122
+    21300246: JUMP-button_123
+    21300248: JUMP-button_124
+    21300250: JUMP-button_125
+    21300252: JUMP-button_126
+    21300254: JUMP-button_127
+    21300256: JUMP-button_128
+    21300258: JUMP-button_129
+    21300260: JUMP-button_130
+    21300262: JUMP-button_131
+    21300264: JUMP-button_132
+    21300266: JUMP-button_133
+    21300268: JUMP-button_134
+    21300270: JUMP-button_135
+    21300272: JUMP-button_136
+    21300274: JUMP-button_137
+    21300276: JUMP-button_138
+    21300278: JUMP-button_139
+    21300280: JUMP-button_140
+    21300282: JUMP-button_141
+    21300284: JUMP-button_142
+    21300286: JUMP-button_143
+    21300288: JUMP-button_144
+    21300290: JUMP-button_145
+    21300292: JUMP-button_146
+    21300294: JUMP-button_147
+    21300296: JUMP-button_148
+    21300298: JUMP-button_149
+    21300300: JUMP-button_150
+    21300302: JUMP-button_151
+    21300304: JUMP-button_152
+    21300306: JUMP-button_153
+    21300308: JUMP-button_154
+    21300310: JUMP-button_155
+    21300312: JUMP-button_156
+    21300314: JUMP-button_157
+    21300316: JUMP-button_158
+    21300318: JUMP-button_159
+    21300320: JUMP-button_160
+    21300322: JUMP-button_161
+    21300324: JUMP-button_162
+    21300326: JUMP-button_163
+    21300328: JUMP-button_164
+    21300330: JUMP-button_165
+    21300332: JUMP-button_166
+    21300334: JUMP-button_167
+    21300336: JUMP-button_168
+    21300338: JUMP-button_169
+    21300340: JUMP-button_170
+    21300342: JUMP-button_171
+    21300344: JUMP-button_172
+    21300346: JUMP-button_173
+    21300348: JUMP-button_174
+    21300350: JUMP-button_175
+    21300352: JUMP-button_176
+    21300354: JUMP-button_177
+    21300356: JUMP-button_178
+    21300358: JUMP-button_179
+    21300360: JUMP-button_180
+    21300362: JUMP-button_181
+    21300364: JUMP-button_182
+    21300366: JUMP-button_183
+    21300368: JUMP-button_184
+    21300370: JUMP-button_185
+    21300372: JUMP-button_186
+    21300374: JUMP-button_187
+    21300376: JUMP-button_188
+    21300378: JUMP-button_189
+    21300380: JUMP-button_190
+    21300382: JUMP-button_191
+    21300384: JUMP-button_192
+    21300386: JUMP-button_193
+    21300388: JUMP-button_194
+    21300390: JUMP-button_195
+    21300392: JUMP-button_196
+    21300394: JUMP-button_197
+    21300396: JUMP-button_198
+    21300398: JUMP-button_199
+    21300400: JUMP-button_200
+    21300402: JUMP-button_201
+    21300404: JUMP-button_202
+    21300406: JUMP-button_203
+    21300408: JUMP-button_204
+    21300410: JUMP-button_205
+    21300412: JUMP-button_206
+    21300414: JUMP-button_207
+    21300416: JUMP-button_208
+    21300418: JUMP-button_209
+    21300420: JUMP-button_210
+    21300422: JUMP-button_211
+    21300424: JUMP-button_212
+    21300426: JUMP-button_213
+    21300428: JUMP-button_214
+    21300430: JUMP-button_215
+    21300432: JUMP-button_216
+    21300434: JUMP-button_217
+    21300436: JUMP-button_218
+    21300438: JUMP-button_219
+    21300440: JUMP-button_220
+    21300442: JUMP-button_221
+    21300444: JUMP-button_222
+    21300446: JUMP-button_223
+    21300448: JUMP-button_224
+    21300450: JUMP-button_225
+    21300452: JUMP-button_226
+    21300454: JUMP-button_227
+    21300456: JUMP-button_228
+    21300458: JUMP-button_229
+    21300460: JUMP-button_230
+    21300462: JUMP-button_231
+    21300464: JUMP-button_232
+    21300466: JUMP-button_233
+    21300468: JUMP-button_234
+    21300470: JUMP-button_235
+    21300472: JUMP-button_236
+    21300474: JUMP-button_237
+    21300476: JUMP-button_238
+    21300478: JUMP-button_239
+    21300480: JUMP-button_240
+    21300482: JUMP-button_241
+    21300484: JUMP-button_242
+    21300486: JUMP-button_243
+    21300488: JUMP-button_244
+    21300490: JUMP-button_245
+    21300492: JUMP-button_246
+    21300494: JUMP-button_247
+    21300496: JUMP-button_248
+    21300498: JUMP-button_249
+    21300500: JUMP-button_250
+    21300502: JUMP-button_251
+    21300504: JUMP-button_252
+    21300506: JUMP-button_253
+    21300508: JUMP-button_254
+    21300510: JUMP-button_255
+    21300512: JUMP-button_256
+    21300514: JUMP-button_257
+    21300516: JUMP-button_258
+    21300518: JUMP-button_259
+    21300520: JUMP-button_260
+    21300522: JUMP-button_261
+    21300524: JUMP-button_262
+    21300526: JUMP-button_263
+    21300528: JUMP-button_264
+    21300530: JUMP-button_265
+    21300532: JUMP-button_266
+    21300534: JUMP-button_267
+    21300536: JUMP-button_268
+    21300538: JUMP-button_269
+    21300540: JUMP-button_270
+    21300542: JUMP-button_271
+    21300544: JUMP-button_272
+    21300546: JUMP-button_273
+    21300548: JUMP-button_274
+    21300550: JUMP-button_275
+    21300552: JUMP-button_276
+    21300554: JUMP-button_277
+    21300556: JUMP-button_278
+    21300558: JUMP-button_279
+    21300560: JUMP-button_280
+    21300562: JUMP-button_281
+    21300564: JUMP-button_282
+    21300566: JUMP-button_283
+    21300568: JUMP-button_284
+    21300570: JUMP-button_285
+    21300572: JUMP-button_286
+    21300574: JUMP-button_287
+    21300576: JUMP-button_288
+    21300578: JUMP-button_289
+    21300580: JUMP-button_290
+    21300582: JUMP-button_291
+    21300584: JUMP-button_292
+    21300586: JUMP-button_293
+    21300588: JUMP-button_294
+    21300590: JUMP-button_295
+    21300592: JUMP-button_296
+    21300594: JUMP-button_297
+    21300596: JUMP-button_298
+    21300598: JUMP-button_299
+    21300600: JUMP-button_300
+    21300602: JUMP-button_301
+    21300604: JUMP-button_302
+    21300606: JUMP-button_303
+    21300608: JUMP-button_304
+    21300610: JUMP-button_305
+    21300612: JUMP-button_306
+    21300614: JUMP-button_307
+    21300616: JUMP-button_308
+    21300618: JUMP-button_309
+    21300620: JUMP-button_310
+    21300622: JUMP-button_311
+    21300624: JUMP-button_312
+    21300626: JUMP-button_313
+    21300628: JUMP-button_314
+    21300630: JUMP-button_315
+    21300632: JUMP-button_316
+    21300634: JUMP-button_317
+    21300636: JUMP-button_318
+    21300638: JUMP-button_319
+    21300640: JUMP-button_320
+    21300642: JUMP-button_321
+    21300644: JUMP-button_322
+    21300646: JUMP-button_323
+    21300648: JUMP-button_324
+    21300650: JUMP-button_325
+    21300652: JUMP-button_326
+    21300654: JUMP-button_327
+    21300656: JUMP-button_328
+    21300658: JUMP-button_329
+    21300660: JUMP-button_330
+    21300662: JUMP-button_331
+    21300664: JUMP-button_332
+    21300666: JUMP-button_333
+    21300668: JUMP-button_334
+    21300670: JUMP-button_335
+    21300672: JUMP-button_336
+    21300674: JUMP-button_337
+    21300676: JUMP-button_338
+    21300678: JUMP-button_339
+    21300680: JUMP-button_340
+    21300682: JUMP-button_341
+    21300684: JUMP-button_342
+    21300686: JUMP-button_343
+    21300688: JUMP-button_344
+    21300690: JUMP-button_345
+    21300692: JUMP-button_346
+    21300694: JUMP-button_347
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 74, y: 62, z: 65, w: 77}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JUMP-button_0
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_2
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_4
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_6
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_10
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_12
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_13
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_14
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_15
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 983
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_16
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_17
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_19
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_20
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_21
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 971
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_22
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 971
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_24
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_25
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_26
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_27
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_28
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_29
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_30
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_31
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_32
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_33
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_34
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_35
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_36
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_37
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 971
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_38
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 971
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_39
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_40
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_41
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_42
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_43
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 975
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_44
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 967
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_45
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_46
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_47
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_48
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 970
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_49
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 970
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_50
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 970
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_51
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_52
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_53
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_54
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_55
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_56
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_57
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_58
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 967
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 60
+        width: 881
+        height: 886
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_60
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 963
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_61
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 963
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_62
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 719
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_63
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 711
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 703
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 695
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_66
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 687
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_67
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 687
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_68
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 679
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_69
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 679
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 671
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_71
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 671
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_75
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 655
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_76
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 663
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_77
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_78
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_79
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 663
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 655
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_81
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 651
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_82
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_83
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 655
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_85
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 639
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_86
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 639
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_87
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 639
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_88
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 639
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 631
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_90
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 631
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_91
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 631
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_92
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 631
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_93
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 631
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_95
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 623
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_96
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 623
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_97
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 623
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_98
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 623
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_100
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 615
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_101
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 615
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_102
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 615
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_103
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 615
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_105
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 607
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_106
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 610
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_107
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 607
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_108
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 607
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_110
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 599
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_111
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 599
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_112
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 599
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_114
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 591
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_115
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 591
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_116
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 591
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_117
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 591
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_119
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 583
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 583
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_121
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 583
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_122
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 583
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_123
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 583
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_125
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 575
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_126
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 575
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_127
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 578
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_128
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 575
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_130
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 567
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_131
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 567
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_132
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 567
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_135
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 559
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_136
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 551
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_137
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 559
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_138
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 551
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_139
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 551
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_141
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 543
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_142
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 543
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_143
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 535
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_145
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 535
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_147
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 527
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_148
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 519
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_150
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 519
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_152
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 511
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_153
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 511
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_156
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 503
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_157
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 495
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_158
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 495
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 503
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_160
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 495
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_163
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 487
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_164
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 479
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_165
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 479
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_166
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 487
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_167
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 479
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_168
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 479
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_170
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 471
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_171
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 471
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_172
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 463
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_174
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 463
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_175
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 463
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_177
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 455
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_178
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 455
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_179
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 455
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_181
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_182
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_183
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 447
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_185
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 439
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_186
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 431
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_187
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 439
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_188
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 431
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_189
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 431
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_190
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 431
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_191
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_192
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_193
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 423
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_194
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_195
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 415
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_196
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 415
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_197
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 415
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_198
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 415
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_199
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_200
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_201
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_202
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_203
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_204
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_205
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_207
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 391
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_208
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 391
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_209
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 391
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_210
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 383
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_211
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 383
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_212
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 383
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_213
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 383
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_214
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 375
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_215
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 375
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_216
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 375
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_217
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 375
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_218
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 367
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_219
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 367
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_220
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 367
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_221
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 367
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_222
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 359
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_223
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 359
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_224
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 359
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_225
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 351
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_226
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 351
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_227
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 351
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_228
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 343
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_229
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 343
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_230
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 343
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_231
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 331
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_232
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 335
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_233
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 327
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_234
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 319
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_235
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_236
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 299
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_237
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_238
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_239
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_240
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_241
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_242
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_243
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_244
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_245
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_246
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_247
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_248
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_249
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_250
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_251
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 23
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_252
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 23
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_253
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 23
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_254
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_255
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 23
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_256
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 23
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_257
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 23
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_258
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_259
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_260
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_261
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_262
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_263
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_264
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_265
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_266
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_267
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_268
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_269
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_270
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_271
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_272
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_273
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_274
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_275
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_276
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_277
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_278
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_279
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_280
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_281
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_282
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_283
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_284
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_285
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_286
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_287
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_288
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_289
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_290
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_291
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_292
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_293
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_294
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_295
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_296
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_297
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_298
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_299
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_300
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_301
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_302
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_303
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_304
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_305
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_306
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_307
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_308
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 9
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_309
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_310
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_311
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_312
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_313
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_314
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_315
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_316
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_317
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_318
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_319
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_320
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_321
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_322
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_323
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_324
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_325
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_326
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_327
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_328
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_329
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_330
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_331
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_332
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_333
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_334
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_335
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_336
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_337
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 3
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_338
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_339
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_340
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_341
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_342
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_343
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_344
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_345
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_346
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JUMP-button_347
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
